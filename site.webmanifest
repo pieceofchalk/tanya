@@ -1,0 +1,13 @@
+{
+  "name": "FUNGLSH",
+  "short_name": "FUNGLSH 😎",
+  "description": "Hi, my name is Tanya",
+  "start_url": "/#",
+  "background_color": "#000000",
+  "theme_color": "#F4CDD5",
+  "icons": [{
+    "src": "images/favicon_io/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }]
+}
